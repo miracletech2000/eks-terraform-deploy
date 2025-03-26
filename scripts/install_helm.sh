@@ -35,4 +35,8 @@ helm repo add stable https://charts.helm.sh/stable
 echo "Updating Helm repositories..."
 helm repo update
 
+<<<<<<< HEAD
 echo "Helm installation completed!"
+=======
+echo "Helm installation completed!"
+>>>>>>> 3f38c38 (enhanced infra deployment)

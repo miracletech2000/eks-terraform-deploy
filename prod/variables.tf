@@ -77,6 +77,10 @@ variable "env_name" {
 #   type        = string
 #   sensitive   = true
 #   default     = "b4f8f4f8-e011-7046-0637-993dc10edd76"
+<<<<<<< HEAD
 # }
 
 
+=======
+# }
+>>>>>>> 3f38c38 (enhanced infra deployment)

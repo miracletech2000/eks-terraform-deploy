@@ -42,6 +42,10 @@ provider "helm" {
 data "aws_eks_cluster_auth" "cluster-auth" {
   depends_on = [module.eks]
   name       = module.eks.cluster_name
+<<<<<<< HEAD
 }
 
 
+=======
+}
+>>>>>>> 3f38c38 (enhanced infra deployment)

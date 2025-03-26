@@ -6,4 +6,8 @@ terraform {
     region         = "us-east-2"
     dynamodb_table = "terraform-state-locking"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3f38c38 (enhanced infra deployment)

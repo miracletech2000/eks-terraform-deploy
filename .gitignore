@@ -26,5 +26,9 @@ override.tf.json
 .terraformrc
 terraform.rc
 #Ignore visual studio workspace
+<<<<<<< HEAD
 *.code-workspace
 
+=======
+*.code-workspace
+>>>>>>> 3f38c38 (enhanced infra deployment)

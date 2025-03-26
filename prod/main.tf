@@ -76,6 +76,10 @@ module "aws_alb_controller" {
 #   vpc_id                    = module.vpc.vpc_id
 #   private_subnets           = module.vpc.private_subnets
 #   grafana_security_group_id = module.managed_grafana.security_group_id
+<<<<<<< HEAD
 # }
 
 
+=======
+# }
+>>>>>>> 3f38c38 (enhanced infra deployment)
